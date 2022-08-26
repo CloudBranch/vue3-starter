@@ -1,0 +1,9 @@
+# Directories
+node_modules
+dist
+dist-ssr
+
+# Files
+babel.config.js
+postcss.config.js
+tailwind.config.js
